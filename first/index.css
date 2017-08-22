@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  width: 100%;
+  height: 100vh;
+  background: #ddd;
+}
+
+header {
+  width: 100%;
+  height: 20vh;
+  background: #444;
+}
+
+div {
+  margin: 0 auto;
+  width: 75%;
+  height: 70vh;
+  background: #fff;
+}
+
+footer {
+  margin: 0 auto;
+  width: 75%;
+  height: 10vh;
+  background: #222;
+}
